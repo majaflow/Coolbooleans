@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(11, 184, 155);
+    height: 55px;
+    /* overflow: hidden;*/
+  }
+
+li {
+    float: left;
+}
+
+li a {
+    display: block; 
+    padding: 20px 16px;
+    text-decoration: none;
+    color: rgb(206, 58, 83);
+
+}
+
+li a:hover {
+    background-color: rgb(121, 143, 0);
+}
+#arrays {
+    border: 5px solid black;
+    width: 50px;
+    height: 30px;
+    padding: 20px;
+  background-color:rgb(206, 58, 83);
+}
+#functions {
+    border: 5px solid black;
+    width: 50px;
+    height: 30px;
+    padding: 20px;
+  background-color:rgb(206, 58, 83);
+ 
+}
+#ForLoops {
+    border: 5px solid black;
+    width: 50px;
+    height: 30px;
+    padding: 20px;
+  background-color:rgb(206, 58, 83);
+  
+}
+#ex2 {
+    width: 100px;
+    height: 100px;
+}
+#sidebar {
+    width: 100px;
+    height: 1400px;
+    left:1300px;
+    position: absolute;
+    background-color: pink
+}
+#HMU {
+    width: 100px;
+    animation-name:1s;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+}
